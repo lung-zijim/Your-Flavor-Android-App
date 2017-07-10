@@ -1,0 +1,2 @@
+* Your Flavor Android App 
+This is a part of Restaurant project. The app illustrates result from Back-End server.
